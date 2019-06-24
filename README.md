@@ -1,4 +1,3 @@
-# games.x2c0.net
-Official website for X2C0 Gameservers
+# games.unixfy.me
+A website for Unixfy Gameservers.
 
-[![CircleCI](https://circleci.com/gh/unixfy/games.x2c0.net.svg?style=svg)](https://circleci.com/gh/unixfy/games.x2c0.net)
